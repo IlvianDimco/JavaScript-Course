@@ -27,4 +27,6 @@ let checkWinner = (avgDolphins, avgKoalas) => {
     }
 }
 
+checkWinner(calcAverage(44, 23, 71), calcAverage(65, 54, 49))
 checkWinner(scoreDolphins, scoreKoalas)
+
