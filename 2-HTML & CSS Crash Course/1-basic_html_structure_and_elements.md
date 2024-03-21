@@ -1,4 +1,4 @@
-Sure! Here's a basic HTML structure along with some commonly used HTML elements:
+Here's a basic HTML structure along with some commonly used HTML elements:
 
 ```html
 <!DOCTYPE html>
